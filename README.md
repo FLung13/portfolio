@@ -13,7 +13,7 @@ This is my personal portfolio website built using HTML and CSS.
 - Spring Boot Applications
 
 ## Live Site
-https://your-vercel-link.vercel.app
+https://fredylung.vercel.app/
 
 ## GitHub
 https://github.com/FLung13/portfolio
